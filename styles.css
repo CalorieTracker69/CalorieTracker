@@ -41,3 +41,7 @@ header {
     text-align: center;
     padding-top: 2px;
 }
+p {
+    color: white;
+    text-decoration: underline;
+}
