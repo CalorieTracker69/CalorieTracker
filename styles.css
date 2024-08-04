@@ -27,7 +27,7 @@ button {
 #proteins, #proteins2, #proteins3 {
     margin-right: 1px;
 }
-#Meal1, #totalDiv {
+#Meal1, #totalDiv, {
     display: inline-block;
 }
 #totalDiv {
@@ -35,4 +35,9 @@ button {
     bottom: 640px; 
     left: 400px;
     padding-right: 150px;
+}
+#headerDiv {
+    background-color: black;
+    text-align: center;
+    padding-top: 2px;
 }
